@@ -1,5 +1,5 @@
-## Hi there 👋
-# My Projects ⬇
+# Hi there 👋
+## My Projects ⬇
 <details>
   <summary>💎HTML + CSS + JS (All Apps adaprive for mobile)💎</summary>
   <a href="https://trace102k.github.io/WeatherApp" target="_blank">
