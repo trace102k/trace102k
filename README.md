@@ -2,8 +2,10 @@
 
 <details>
   <summary>✨HTML + CSS</summary>
-
-  - [Course] (https://trace102k.github.io/course-site/)
-  - [Social] (https://trace102k.github.io/social/)
-
+  <a href="[https://github.com/username/todo-app](https://trace102k.github.io/course-site/)" target="_blank">
+  Course
+  </a>
+  <a href="https://trace102k.github.io/social/" target="_blank">
+  Social
+  </a>
 </details>
