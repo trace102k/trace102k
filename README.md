@@ -1,6 +1,7 @@
 ## Hi there 👋
+# My Projects ⬇
 <details>
-  <summary>💎HTML + CSS + JS</summary>
+  <summary>💎HTML + CSS + JS (All Apps adaprive for mobile)💎</summary>
   <a href="https://trace102k.github.io/WeatherApp" target="_blank">
   Weather App
   </a>
@@ -13,8 +14,6 @@
   Todo App
   </a>
 </details>
-
-
 <details>
   <summary>✨HTML + CSS</summary>
   <a href="https://trace102k.github.io/course-site" target="_blank">
