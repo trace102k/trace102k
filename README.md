@@ -1,4 +1,19 @@
 ## Hi there 👋
+<details>
+  <summary>💎HTML + CSS + JS</summary>
+  <a href="https://trace102k.github.io/WeatherApp" target="_blank">
+  Weather App
+  </a>
+  <br>
+  <a href="https://trace102k.github.io/ExchangeApp" target="_blank">
+  Exchange Money App
+  </a>
+  <br>
+  <a href="https://trace102k.github.io/TodoApp" target="_blank">
+  Todo App
+  </a>
+</details>
+
 
 <details>
   <summary>✨HTML + CSS</summary>
