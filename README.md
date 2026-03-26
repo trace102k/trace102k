@@ -6,12 +6,12 @@
   Weather App
   </a>
   <br>
-  <a href="https://trace102k.github.io/WeatherApp" target="_blank">
-  Weather App
+  <a href="https://trace102k.github.io/GithubApp" target="_blank">
+  Github User Search App
   </a>
   <br>
-  <a href="https://trace102k.github.io/GithubApp" target="_blank">
-    Github User Search App
+  <a href="https://trace102k.github.io/ExchangeApp" target="_blank">
+    Exchange Money App
   </a>
   <br>
   <a href="https://trace102k.github.io/TodoApp" target="_blank">
