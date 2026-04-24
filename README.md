@@ -34,3 +34,10 @@
   React Cards App
   </a>
 </details>
+<details>
+  <summary>🎇React + Firebase (Personal tournament bracket + stats App)🎇</summary>
+  <a href="https://trace102k.github.io/tournament/" target="_blank">
+  React + Firebase App
+  </a>
+</details>
+
